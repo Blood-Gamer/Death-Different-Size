@@ -1,2 +1,2 @@
 # Death-Different-Size
-Code for my mod.
+License for my mod.
